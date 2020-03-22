@@ -1,0 +1,1 @@
+Basic things about TypeScript

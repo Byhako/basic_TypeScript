@@ -1,0 +1,16 @@
+{
+  "name": "basic_typescript",
+  "version": "1.0.0",
+  "description": "Curse udemy",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts",
+    "version": "tsc -v",
+    "tsc": "tsc"
+  },
+  "author": "Ruben E Acosta",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}

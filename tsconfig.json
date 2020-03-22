@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    // "target": "es5",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "sourceMap": true
+  },
+  "files": [
+    "index.ts",
+    "class.ts",
+    "decorators.ts"
+  ]
+}
